@@ -19,9 +19,3 @@ fi
 # set PATH so it includes user's private bin directories
 PATH="$HOME/bin:$HOME/.local/bin:$PATH"
 
-# added to support Linux From Scratch build(s)
-# export LFS=/mnt/lfs
-
-# Ubuntu make installation of Ubuntu Make binary symlink
-# PATH=/home/shardan/.local/share/umake/bin:$PATH
-
